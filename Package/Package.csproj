@@ -7,6 +7,10 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp2.0</TargetFramework>
     <SourceLinkCreate>true</SourceLinkCreate>
+    <Version>1.0.1</Version>
+    <Company>NA</Company>
+    <Product>SourceLinkDemo.Package</Product>
+    <PackageId>SourceLinkDemo.Package</PackageId>
   </PropertyGroup>
 
 </Project>

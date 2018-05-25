@@ -10,7 +10,7 @@ namespace Package
         /// <summary>
         /// An useful function
         /// </summary>
-        public void Foo()
+        public void Foo2()
         {
             Console.WriteLine("Hello!");
         }
